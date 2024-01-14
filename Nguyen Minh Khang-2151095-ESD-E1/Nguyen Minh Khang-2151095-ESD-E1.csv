@@ -1,0 +1,4 @@
+"Reference","Value","Footprint","Datasheet","Qty"
+"A1","Arduino_UNO_R2","Module:Arduino_UNO_R2","https://www.arduino.cc/en/Main/arduinoBoardUno","1"
+"D1-D8","LED","LED_SMD:LED_0805_2012Metric","~","8"
+"R1-R8","247R","Resistor_SMD:R_0603_1608Metric","~","8"
